@@ -1,5 +1,5 @@
  
-# Project Title  
+# Simple console calculator 
 Simple console calculator 
 
 ## Run Locally  
