@@ -7,7 +7,7 @@
 Клонувати проект
 
 ~~~bash  
-git clone git@github.com:faunel/calc.git
+git clone https://github.com/faunel/calc.git
 ~~~
 
 Перейти в папку 
