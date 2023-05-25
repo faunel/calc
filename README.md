@@ -1,22 +1,22 @@
  
-# Simple console calculator 
-Simple console calculator 
+# Простий консольний калькулятор
 
-## Run Locally  
 
-Clone the project  
+## Запуск
+
+Клонувати проект
 
 ~~~bash  
  git@github.com:faunel/calc.git
 ~~~
 
-Go to the project directory  
+Перейти в папку 
 
 ~~~bash  
   cd calc
 ~~~
 
-Compile and run 
+Скомпілювати і запустити
 
 ~~~bash  
 cargo run
